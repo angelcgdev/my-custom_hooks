@@ -35,5 +35,5 @@ Example of use:
 
 useForm displays the value, function to change the value and a function to reset,
 your input name  
-useFetch() // get all the names of your inputs
+useForm() // get all the names of your inputs
 
